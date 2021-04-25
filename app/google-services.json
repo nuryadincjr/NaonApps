@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295540059014",
+    "project_id": "naonapp-07102000",
+    "storage_bucket": "naonapp-07102000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295540059014:android:8a7b1f37eb357c53901a07",
+        "android_client_info": {
+          "package_name": "com.abuunity.naonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295540059014-v5efarrkiv6f9i3baed64vch6goi10d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspsHkBOb0YJ0iinFKGcEcCPOcsIHL4v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295540059014-v5efarrkiv6f9i3baed64vch6goi10d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
