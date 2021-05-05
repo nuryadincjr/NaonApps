@@ -10,4 +10,6 @@
 
     <color name="teal_500">#005353</color>
     <color name="tell_gray">#E6FFFF</color>
+    <color name="gray_10">#DDDDDD</color>
+
 </resources>

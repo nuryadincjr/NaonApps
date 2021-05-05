@@ -41,6 +41,7 @@
     <string name="send_chat">send chat</string>
     <string name="resiver_chat">resiver chat</string>
     <string name="emotion_chat">emotion chat</string>
+    <string name="todo_image">image send chat</string>
 
 
 </resources>

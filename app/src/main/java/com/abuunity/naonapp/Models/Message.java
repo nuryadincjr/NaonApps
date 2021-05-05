@@ -2,7 +2,7 @@ package com.abuunity.naonapp.Models;
 
 public class Message {
 
-    private String messageId, message, senderId;
+    private String messageId, message, senderId, imageUrl;
     private long timestamp;
     private int emotion = -1;
 
@@ -53,5 +53,13 @@ public class Message {
 
     public void setEmotion(int emotion) {
         this.emotion = emotion;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 }
